@@ -26,7 +26,7 @@ Detect whether a news article is REAL or FAKE using NLP and Machine Learning.
 6. Predict on new articles in real time
 
 ##  Results
-<img width="991" height="784" alt="confusion_matrix" src="https://github.com/user-attachments/assets/c4810384-b57f-4ba6-b6aa-fc1c82a1773d" />
+![Confusion Matrix](confusion_matrix.png)
 
 ##  How to Run
 1. Open the notebook in Google Colab (https://colab.research.google.com)
