@@ -28,6 +28,9 @@ Detect whether a news article is REAL or FAKE using NLP and Machine Learning.
 ##  Results
 ![Confusion Matrix](confusion_matrix.png)
 
+##  Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/1aCmqXPz2H0qzhFUr2x5yE5Eg58Yzhq0w?usp=sharing)
+
 ##  How to Run
 1. Open the notebook in Google Colab (https://colab.research.google.com)
 2. Download the dataset from Kaggle
